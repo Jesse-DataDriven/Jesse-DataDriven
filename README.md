@@ -29,7 +29,7 @@ Também desenvolvo **projetos voluntários de transformação digital**, levando
 
 ---
 
-## 🏆 Ganhos Reais (Resultados)
+## 🏆 Resultados Relevantes
 
 ### Alguns destaques:
 
