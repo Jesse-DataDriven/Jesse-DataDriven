@@ -5,7 +5,9 @@
   <img src="https://img.shields.io/badge/IA-Aplicada-007acc?style=flat-square">
   <img src="https://img.shields.io/badge/PNL-NLP_Engineering-6a1b9a?style=flat-square">
   <img src="https://img.shields.io/badge/Data-Driven-4caf50?style=flat-square">
+  <img src="https://img.shields.io/badge/Discovery-Negócios_&_Dados-795548?style=flat-square">
 </p>
+
 
 ---
 
