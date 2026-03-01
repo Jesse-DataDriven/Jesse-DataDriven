@@ -100,9 +100,13 @@ Também desenvolvo **projetos voluntários de transformação digital**, levando
 ## 🌐 Portfólio e Redes
 
 👉 [Acesse meu Portfólio Profissional](https://portfolio-jesseoliveiracastro.netlify.app)
+
 👉 [Acesse alguns cases e projetos Benchmarking no GitHub](https://github.com/Jesse-DataDriven)
+
 👉 [Acesse meu Linkedin](https://www.linkedin.com/in/jesse-oliveira-de-castro-88421536/)
+
 👉 [Acesse meu Facebook](https://www.facebook.com/profile.php?id=61585455595611)
+
 ---
 
 ## 🤝 Conecte-se comigo
