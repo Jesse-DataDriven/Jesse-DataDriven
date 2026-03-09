@@ -23,7 +23,7 @@ Destaques da minha atuação incluem:
 - Liderança de produtos analíticos e squads multidisciplinares
 - Soluções em **Python, SQL, PySpark, JavaScript** e arquitetura em **Azure** (Data Factory, Databricks, Synapse)
 - Dashboards executivos e analíticos em **Power BI, HTML**
-- Automação, APIs, DataOps e IA aplicada ao negócio
+- Automação, APIs, DataOps e IA aplicada ao negócio como Ferramenta, para automação e como agentes autonomos.
 
 Também desenvolvo **projetos voluntários de transformação digital**, levando tecnologia para microempreendedores e iniciativas comunitárias.
 
