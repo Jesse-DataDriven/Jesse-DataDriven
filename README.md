@@ -1,4 +1,4 @@
-<h1 align="center">👋 Olá, eu sou o Jessé — Product Manager | Data Products | AI Specialist | Solution Designer | Especialista em Modelagem Preditiva e Growth driven by Data</h1>
+<h1 align="center">👋 Olá, eu sou o Jessé — Product Manager | Data Products | AI Specialist | Solution Designer | QA Manager | Especialista em Modelagem Preditiva e Growth driven by Data</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/CX-Inteligência_Ativa-f57c00?style=flat-square">
